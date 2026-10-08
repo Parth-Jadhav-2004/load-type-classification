@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+
+# Study notes for preparing the assignment, not part of the submission.
+Load_Type_Assignment_Guide.html

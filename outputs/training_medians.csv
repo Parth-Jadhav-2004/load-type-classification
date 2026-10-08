@@ -1,0 +1,11 @@
+,training_median
+Usage_kWh,5.51
+Lagging_Current_Reactive.Power_kVarh,5.33
+Leading_Current_Reactive_Power_kVarh,0.0
+CO2(tCO2),0.0
+Lagging_Current_Power_Factor,87.67338823378158
+Leading_Current_Power_Factor,100.0
+apparent_lagging,8.103530094964787
+apparent_leading,18.06566909915047
+usage_prev,5.51
+usage_trail_1h,5.839833403125017
